@@ -1,6 +1,6 @@
-# 📈 AAPL Option Pricing & Implied Volatility Analysis
+# AAPL Option Pricing & Implied Volatility Analysis
 
-## 🎯 Objective
+## Objective
 
 This project focuses on pricing European call options on Apple (AAPL) using the Black-Scholes model. It covers the full implied volatility workflow:
 
@@ -13,7 +13,7 @@ This project focuses on pricing European call options on Apple (AAPL) using the 
 
 ---
 
-## 🔧 Tools & Libraries
+## Tools & Libraries
 
 - Python 3
 - `yfinance`
@@ -24,7 +24,7 @@ This project focuses on pricing European call options on Apple (AAPL) using the 
 
 ---
 
-## 🧠 Step-by-Step Breakdown
+## Step-by-Step Breakdown
 
 ### 1. **Data Retrieval**
 - Spot price from Yahoo Finance
