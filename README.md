@@ -55,6 +55,7 @@ Invert Black-Scholes using market price to estimate `impliedVol_calc`.
 
 ```python
 calls_liq['impliedVol_calc'] = calls_liq.apply(compute_iv, axis=1)
+```
 
 ### Author
 
